@@ -1,0 +1,35 @@
+
+.formulario{
+    background-color: rgb(124, 156, 169);
+    color: white;
+    align-items: center;
+    text-align: left;
+    padding-left: 10%;
+    font-size: 30px;
+    width: 400px;
+    height: 300px;
+    border: solid 5px;
+    border-color: rgb(67, 102, 117);
+    border-radius: 10%;
+  }  
+  #enviar{
+    width: 80px;
+    color: blue;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 10px;
+    cursor: pointer;
+  }
+  #enviar:hover{
+    color:rgb(198, 202, 239);
+    background-color: rgb(74, 112, 100);
+  }
+  body{
+    justify-items: center;
+  }
+  h1{
+    text-align: center;
+    text-decoration: double;
+    color: rgb(42, 13, 19);
+  }
+  
